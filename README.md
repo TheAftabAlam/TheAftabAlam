@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **aftabalamsi12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qeuvSNSVmsFEwWIHso65R3Cd2WMSZOAm/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hPRT4L_sgxhCcScSsgpMip6vxma5TPiq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
