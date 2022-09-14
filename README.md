@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java Backend Developer**
 
-- 👨‍💻 All of my projects are available at [https://theaftabalam.github.io/](https://aftabalam.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://theaftabalam.github.io/)
 
 - 💬 Ask me about **Java, Javascript, MySql etc**
 
