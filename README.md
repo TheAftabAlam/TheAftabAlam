@@ -10,18 +10,18 @@
 
 - 🌱 I’m currently learning **Java Backend Developer**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://theaftabalam.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://aftabalam.netlify.app/)
 
-- 💬 Ask me about **Java, Javascript, MySql etc**
+- 💬 Ask me about **Java,SpringBoot,MySql Javascript etc**
 
 - 📫 How to reach me **aftabalamsi12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hPRT4L_sgxhCcScSsgpMip6vxma5TPiq/view?usp=sharing)
+- 📄 Know about my experiences [https://1drv.ms/b/s!Al5pQvZav6TqdpW2wDVTCJEIg5M?e=rOiZOX)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aftabalamsi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aftabalamsi12" height="30" width="40" /></a>
-<a href="https://instagram.com/the_aftabalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_aftabalam" height="30" width="40" /></a>
+
 
 </p>
 
