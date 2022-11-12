@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Java Backend Developer**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://aftabalam.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://theaftabalam.github.io/)
 
 - 💬 Ask me about **Java,SpringBoot,MySql Javascript etc**
 
 - 📫 How to reach me **aftabalamsi12@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!Al5pQvZav6TqdpW2wDVTCJEIg5M?e=rOiZOX)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1ilZfjJBbZ9YcNzJfekiWnoLBz8ETJk_8)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
