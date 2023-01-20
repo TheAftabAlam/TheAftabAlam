@@ -1,4 +1,4 @@
-![MasterHead](https://devpunch.com/img/Dev-At-Work-Gif.jpg)
+![MasterHead](https://devpunch.com/img/Dev-At-Work-Gif.jpg) 
 
 <h1 align="center">Hi 👋, I'm Aftab Alam</h1>
 <h3 align="center">From Barabanki UP</h3>
@@ -20,26 +20,36 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1ilZfjJBbZ9YcNzJfekiWnoLBz8ETJk_8)
 
-<h3 align="left">Connect with me:</h3>
+
+ 
+<div><h2> 🌐 Socials</h2> <div/>
+<br/>
 <p align="left">
-<a  href="https://linkedin.com/in/aftabalamsi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aftabalamsi12" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/FW18_0458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="aftabalamsi12" height="30" width="40" /></a>
-
-
+<a href = "https://www.linkedin.com/in/aftabalamsi12/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "mailto:aftabalamsi12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://Theaftabalam.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
+<a href="https://drive.google.com/drive/folders/1ilZfjJBbZ9YcNzJfekiWnoLBz8ETJk_8" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/></a>
+ 
 </p>
 
 
 # 💻Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-green.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-red.svg?style=for-the-badge&logo=Angular&logoColor=white) 
+![Hibernate](https://img.shields.io/badge/-Hibernate-yellowgreen.svg?style=for-the-badge&logo=Hibernate&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%231372B6.svg?style=for-the-badge&logo=JavaScript&logoColor=white) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theaftabalam&show_icons=true&locale=en&layout=compact" alt="theaftabalam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theaftabalam&show_icons=true&locale=en" alt="theaftabalam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theaftabalam&" alt="theaftabalam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theaftabalam" alt="theaftabalam" /></p>
 
-   📈 Activity Graph
-    
-  <a href="https://github.com/theaftabalam/github-readme-activity-graph"><img alt="Aftab's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=theaftabalam&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-
-<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+ 
