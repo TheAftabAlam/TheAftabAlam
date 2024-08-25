@@ -1,4 +1,3 @@
-![MasterHead](https://devpunch.com/img/Dev-At-Work-Gif.jpg) 
 
 <h1 align="center">Hi 👋, I'm Aftab Alam</h1>
 <h3 align="center">From Barabanki UP</h3>
@@ -17,9 +16,6 @@
 - 💬 Ask me about **Java,SpringBoot,MySql Javascript etc**
 
 - 📫 How to reach me **aftabalamsi12@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1ilZfjJBbZ9YcNzJfekiWnoLBz8ETJk_8)
-
 
  
 <div><h2> 🌐 Socials</h2> <div/>
