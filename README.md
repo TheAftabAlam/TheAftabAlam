@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Java Backend Developer**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://theaftabalam.github.io/)
-
 - 💬 Ask me about **Java,SpringBoot,MySql Javascript etc**
 
 - 📫 How to reach me **aftabalamsi12@gmail.com**
