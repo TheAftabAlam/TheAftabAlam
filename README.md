@@ -12,9 +12,6 @@
 - 🌱 I’m currently learning **Java Backend Developer**
 
 - 💬 Ask me about **Java,SpringBoot,MySql Javascript etc**
-
-- 📫 How to reach me **aftabalamsi12@gmail.com**
-
  
 <div><h2> 🌐 Socials</h2> <div/>
 <br/>
