@@ -36,5 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theaftabalam&show_icons=true&locale=en" alt="theaftabalam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theaftabalam" alt="theaftabalam" /></p>
-
- make it more attractive and add microservices docker spring cloud kafka 
