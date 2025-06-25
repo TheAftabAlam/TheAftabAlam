@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Aftab Alam</h1>
 <h3 align="center">From Barabanki UP</h3>
-<h3 align="center">Committed and goal-oriented B.tech graduate with excellent knowledge in Java, Spring Boot, Hibernate, MySQL as well as frontend technologies. Ability to learn things quickly and capable of working in a fast-paced and team-driven environment.</h3>
+<h3 align="center">Experienced and goal-driven Backend Developer with over 2 years of hands-on experience in designing, developing, and maintaining scalable backend systems. Proficient in building robust APIs, working with databases, and deploying server-side applications. Strong foundation in software engineering principles, version control (Git), and continuous integration. Eager to contribute to innovative projects and solve complex engineering challenges.</h3>
 <img align="center" alt="Coding" width="300" src="https://miro.medium.com/max/2800/0*OJ_EHzpajEM2fR2O">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theaftabalam&label=Profile%20views&color=0e75b6&style=flat" alt="theaftabalam" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theaftabalam" alt="theaftabalam" /></a> </p>
