@@ -18,7 +18,6 @@
 <a href = "mailto:aftabalamsi12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  
 </p>
-
 # 💻Tech Stack
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-green.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-red.svg?style=for-the-badge&logo=Angular&logoColor=white) 
