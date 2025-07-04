@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aftab Alam</h1>
 <h3 align="center">Backend Developer from Gurgaon, Haryana</h3>
-
 <p align="center">
   <img src="https://miro.medium.com/max/2800/0*OJ_EHzpajEM2fR2O" alt="Coding" width="300" />
 </p>
