@@ -6,7 +6,6 @@
 <p align="center">
   🚀 Experienced and goal-driven <strong>Backend Developer</strong> with 2+ years of hands-on experience in building scalable backend systems and RESTful APIs. Proficient in <strong>Java, Spring Boot, Hibernate, MySQL</strong>, and other modern technologies. Passionate about clean code, performance, and delivering real business value.
 </p>
----
 
 
 ### 📊 GitHub Stats
