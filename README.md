@@ -11,7 +11,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=theaftabalam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=theaftabalam&theme=gruvbox" alt="Trophies" />
 </p>
