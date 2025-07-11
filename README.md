@@ -18,8 +18,6 @@
 - 🌱 Actively learning system design and cloud deployment (AWS)  
 - 💬 Ask me about Spring Boot, Security, REST APIs, or clean architecture  
 - 👨‍💻 Always open to collaborating on impactful backend projects  
-- 📫 Reach me at: **theaftabalam@gmail.com**
-
 ---
 
 ## 🛠️ Tech Stack
