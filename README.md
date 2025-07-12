@@ -9,7 +9,6 @@
   🚀 I'm a passionate <strong>Backend Developer</strong> with over <strong>2 years of experience</strong> in building scalable and efficient backend systems.  
   I specialize in <strong>Java, Spring Boot, Hibernate, and MySQL</strong>, and love creating robust APIs that solve real-world problems.
 </p>
-
 ---
 
 ## 💼 About Me
