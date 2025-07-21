@@ -10,10 +10,10 @@
 ---
 
 <div align="center">
-  
-[![Visitors](https://komarev.com/ghpvc/?username=theaftabalam&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/theaftabalam)
-[![Experience](https://img.shields.io/badge/experience-2%2B%20years-brightgreen)](https://www.linkedin.com/in/yourprofile/)
-[![Status](https://img.shields.io/badge/status-building%20awesome%20things-success)](https://github.com/theaftabalam)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theaftabalam&show_icons=true&bg_color=2E3440&title_color=88C0D0&text_color=ECEFF4&icon_color=8FBCBB&hide_title=true)](https://github.com/theaftabalam)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theaftabalam&layout=compact&bg_color=2E3440&title_color=88C0D0&text_color=ECEFF4&hide_title=true)](https://github.com/theaftabalam)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=TheAftabAlam&theme=dracula)
 
 </div>
 
