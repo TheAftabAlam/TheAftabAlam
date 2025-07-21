@@ -63,10 +63,9 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theaftabalam&show_icons=true&theme=radical&hide_title=true)](https://github.com/theaftabalam)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theaftabalam&layout=compact&theme=radical&hide_title=true)](https://github.com/theaftabalam)
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=TheAftabAlam&theme=radical)
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theaftabalam&show_icons=true&theme=dracula&hide_title=true)](https://github.com/theaftabalam)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theaftabalam&layout=compact&theme=dracula&hide_title=true)](https://github.com/theaftabalam)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=TheAftabAlam&theme=dracula)
 </div>
 
 ---
