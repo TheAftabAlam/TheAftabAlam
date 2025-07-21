@@ -9,16 +9,6 @@
 
 ---
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theaftabalam&show_icons=true&bg_color=2E3440&title_color=88C0D0&text_color=ECEFF4&icon_color=8FBCBB&hide_title=true)](https://github.com/theaftabalam)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theaftabalam&layout=compact&bg_color=2E3440&title_color=88C0D0&text_color=ECEFF4&hide_title=true)](https://github.com/theaftabalam)
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=TheAftabAlam&theme=dracula)
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -63,8 +53,8 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theaftabalam&show_icons=true&theme=dracula&hide_title=true)](https://github.com/theaftabalam)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theaftabalam&layout=compact&theme=dracula&hide_title=true)](https://github.com/theaftabalam)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theaftabalam&show_icons=true&bg_color=2E3440&title_color=88C0D0&text_color=ECEFF4&icon_color=8FBCBB&hide_title=true)](https://github.com/theaftabalam)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theaftabalam&layout=compact&bg_color=2E3440&title_color=88C0D0&text_color=ECEFF4&hide_title=true)](https://github.com/theaftabalam)
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=TheAftabAlam&theme=dracula)
 </div>
 
