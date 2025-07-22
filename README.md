@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Aftab Alam 👋</h1>
 <h3 align="center">Full Stack Developer | Java • Spring Boot • React • System Design</h3>
-
 ## 🏆 Achievements
 
 <p align="center">
