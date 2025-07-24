@@ -69,7 +69,6 @@ const buildSoftware = () => {
     framework: 'Spring Boot',
     principles: ['Clean Architecture', 'SOLID', 'TDD']
   };
-  
   const frontend = {
     framework: 'React',
     stateManagement: 'Redux',
