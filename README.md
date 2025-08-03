@@ -58,7 +58,7 @@
 **🔗 [Live Demo](#)** <!-- Replace with live link if available -->
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=theaftabalam&color=blue&style=for-the-badge)
 ## 📈 GitHub Analytics
 
 <div align="center">
