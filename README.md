@@ -76,15 +76,6 @@ A full-stack chat app with WebSocket-based real-time messaging.
 
 ---
 
-### [📈 Analytics Dashboard](#)  
-Data visualization platform for tracking business KPIs.  
-**Features:**  
-- 📊 Interactive charts & graphs  
-- 📥 Export data to CSV & PDF  
-- 🔍 Advanced search & filtering  
-
----
-
 ## 📊 GitHub Insights  
 
 <div align="center">
