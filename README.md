@@ -1,9 +1,10 @@
-<!-- Profile Header -->
-<h1 align="center">🚀 Aftab Alam</h1>
-<h3 align="center">Full Stack Developer | Backend Engineer | System Architect</h3>
+<!-- Profile Header with Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aftab+Alam;Full+Stack+Developer;Backend+Engineer;System+Architect;Tech+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-💡 Building scalable systems, crafting elegant user experiences, and turning ideas into production-ready products.  
+💡 Building scalable systems, crafting elegant user experiences, and turning ideas into production-ready products.
 </p>
 
 <p align="center">
@@ -95,4 +96,3 @@ A full-stack chat app with WebSocket-based real-time messaging.
   <a href="mailto:aftabalam.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/theaftabalam"><img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=for-the-badge"/></a>
 </p>
-
