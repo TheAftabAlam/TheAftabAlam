@@ -4,7 +4,6 @@
 <p align="center">
 🎯 I’m a passionate Full Stack Developer who builds robust backend systems and intuitive user interfaces. I focus on clean code, scalable architecture, and delivering seamless user experiences from end to end.
 </p>
-
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=theaftabalam&color=blue&style=for-the-badge)
 
