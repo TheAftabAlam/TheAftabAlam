@@ -1,64 +1,91 @@
-<h1 align="center">Hi, I'm Aftab Alam 👋</h1>
-<h3 align="center">Full Stack Developer | Java • Spring Boot • React • System Design</h3>
+<!-- Profile Header -->
+<h1 align="center">🚀 Aftab Alam</h1>
+<h3 align="center">Full Stack Developer | Backend Engineer | System Architect</h3>
 
 <p align="center">
-🎯 I’m a passionate Full Stack Developer who builds robust backend systems and intuitive user interfaces. I focus on clean code, scalable architecture, and delivering seamless user experiences from end to end.
+💡 Building scalable systems, crafting elegant user experiences, and turning ideas into production-ready products.  
 </p>
----
-![Profile Views](https://komarev.com/ghpvc/?username=theaftabalam&color=blue&style=for-the-badge)
-
-## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theaftabalam&theme=gruvbox&no-frame=true&no-bg=true" />
+  <img src="https://komarev.com/ghpvc/?username=theaftabalam&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧭 About Me  
+
+- 🔭 **Current Focus:** Designing microservices & event-driven architectures  
+- 🧩 **Core Expertise:** Java, Spring Boot, React, System Design  
+- 🌱 **Learning:** Cloud-native development with AWS & Kubernetes  
+- 🎯 **Goal:** To engineer high-performance systems that impact millions  
+- 💬 **Ask Me About:** Backend Engineering, API Design, Scalable Architecture  
+- ⚡ **Fun Fact:** I can turn coffee into deployable code faster than Jenkins builds 😄  
+
+---
+
+## 🛠️ Tech Arsenal  
 
 <div align="center">
 
-### 🔷 Backend Expertise  
+### 💻 Backend Engineering  
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white&style=for-the-badge)
 
-### 🌐 Frontend Mastery  
+### 🎨 Frontend Development  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
-### 🗃️ Data Layer  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+### 🗄️ Databases & Storage  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge)
 
 ### ⚙️ DevOps & Tools  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 
 </div>
 
 ---
 
-## 🚀 Full Stack Projects
+## 🚀 Highlight Projects  
 
-### [🛍️ E-Commerce Platform](https://github.com/theaftabalam/e-commerce)
-**Tech Stack:** ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-**Key Features:**
-- 🔐 JWT Authentication & Authorization  
-- 📦 Product Catalog with Filter/Sort  
-- 🛒 Persistent Shopping Cart  
-- 💳 Checkout & Order Processing  
-
-**🔗 [Live Demo](#)** <!-- Replace with live link if available -->
+### [🛍 E-Commerce Microservices](https://github.com/theaftabalam/e-commerce)  
+A modern, microservice-based shopping platform.  
+**Features:**  
+- 🔐 JWT Auth & Role-Based Access Control  
+- 📦 Product Management with Search, Filter, Sort  
+- 🛒 Persistent Cart & Checkout Flow  
+- 📊 Order Tracking Dashboard  
 
 ---
-## 📈 GitHub Analytics
+
+### [📡 Real-Time Chat Application](#)  
+A full-stack chat app with WebSocket-based real-time messaging.  
+**Features:**  
+- ⚡ Instant messaging with typing indicators  
+- 👥 Group & private chat rooms  
+- 🔔 Real-time notifications  
+- 📱 Fully responsive UI  
+
+---
+
+### [📈 Analytics Dashboard](#)  
+Data visualization platform for tracking business KPIs.  
+**Features:**  
+- 📊 Interactive charts & graphs  
+- 📥 Export data to CSV & PDF  
+- 🔍 Advanced search & filtering  
+
+---
+
+## 📊 GitHub Insights  
 
 <div align="center">
 
@@ -69,3 +96,12 @@
 </div>
 
 ---
+
+## 🤝 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/theaftabalam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:aftabalam.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/theaftabalam"><img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=for-the-badge"/></a>
+</p>
+
