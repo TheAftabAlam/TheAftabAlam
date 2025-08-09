@@ -55,28 +55,6 @@
 
 ---
 
-## 🚀 Highlight Projects  
-
-### [🛍 E-Commerce Microservices](https://github.com/theaftabalam/e-commerce)  
-A modern, microservice-based shopping platform.  
-**Features:**  
-- 🔐 JWT Auth & Role-Based Access Control  
-- 📦 Product Management with Search, Filter, Sort  
-- 🛒 Persistent Cart & Checkout Flow  
-- 📊 Order Tracking Dashboard  
-
----
-
-### [📡 Real-Time Chat Application](#)  
-A full-stack chat app with WebSocket-based real-time messaging.  
-**Features:**  
-- ⚡ Instant messaging with typing indicators  
-- 👥 Group & private chat rooms  
-- 🔔 Real-time notifications  
-- 📱 Fully responsive UI  
-
----
-
 ## 📊 GitHub Insights  
 
 <div align="center">
