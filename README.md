@@ -67,14 +67,6 @@
 
 ---
 
-## 🏆 LeetCode Stats  
-
-<div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/the_aftabalam?theme=dark&ext=contest)
-
-</div>
-
 ## 🤝 Connect With Me  
 
 <p align="center">
