@@ -70,7 +70,21 @@
 ## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aftabalam-connect/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-  <a href="mailto:aftabalam.connect@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/theaftabalam"><img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://theaftabalam.github.io/portfolio-website/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white&labelColor=4B0082" alt="Portfolio" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aftabalam-connect/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="mailto:aftabalam.connect@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/theaftabalam" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
+
+
