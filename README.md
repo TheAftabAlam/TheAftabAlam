@@ -28,9 +28,18 @@
 <div align="center">
 
 ### 💻 Backend Engineering  
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white&style=for-the-badge)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?logo=postman&logoColor=white&style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge)
+![JPA](https://img.shields.io/badge/Spring_Data_JPA-59666C?logo=hibernate&logoColor=white&style=for-the-badge)
+![Feign](https://img.shields.io/badge/OpenFeign-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
+![Eureka](https://img.shields.io/badge/Eureka_Service_Discovery-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-0A66C2?logo=cloud&logoColor=white&style=for-the-badge)
+![AI](https://img.shields.io/badge/AI_Gemini_API-4285F4?logo=google&logoColor=white&style=for-the-badge)
+
 
 ### 🎨 Frontend Development  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
